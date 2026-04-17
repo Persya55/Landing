@@ -14,9 +14,9 @@ function Hero() {
               Ingeniero de Software | Frontend | Developer | Estudiante
             </p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-              <button type="button" className="btn btn-primary btn-lg px-4 me-md-2">
+              <a href="https://wa.link/uxuwvj" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg px-4 me-md-2 text-white">
                 Contactar
-              </button>
+              </a>
             </div>
           </div>
           <div className="col-lg-6 text-center">
