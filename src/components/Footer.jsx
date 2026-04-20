@@ -1,7 +1,7 @@
 function Footer(){
     return(
-     <footer className="class">
-        <p> © 2026- Creador por Thiago Icochea en colaboracion con sus amigos (CHAT GPT) 🤖</p>
+     <footer className="bg-dark text-white text-center py-3">
+        <p> © 2026- Creado por Percy Chabria</p>
      </footer>
     );
  }

@@ -24,7 +24,7 @@ function Projects(){
                         <div className="card-body">
                             <h3 className="card-title h5">Desarrollo de Landing Page</h3>
                             <p className="card-text text-secondary">
-                                Diseñé y desarrollé una landing page moderna, altamente responsiva y optimizada para la conversión. 
+                                Diseñé y desarrollé una landing page moderna.
                                 Se implementaron las mejores prácticas de web vitals, diseño UX/UI en modo oscuro y componentes interactivos 
                                 en React para destacar servicios y facilitar la captación de usuarios de forma atractiva y dinámica.
                             </p>

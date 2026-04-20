@@ -29,13 +29,13 @@ function Navbar() {
               <a className="nav-link active" aria-current="page" href="#">Inicio</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Sobre mí</a>
+              <a className="nav-link" href="#sobre-mi">Sobre mí</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Proyectos</a>
+              <a className="nav-link" href="#proyectos">Proyectos</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Contacto</a>
+              <a className="nav-link" href="#contacto">Contacto</a>
             </li>
           </ul>
         </div>
